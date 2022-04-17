@@ -1,0 +1,32 @@
+
+
+npm i -g @nestjs/cli (00:13:14)
+
+nest new purchases
+
+# fazer cópia do projeto "purchases" para "classroom" após configurá-lo
+
+npx create-next-app@latest web (00:14:31)
+
+Criar API de Autenticação: (00:06:15)
+
+auth0.com (001:25:30) Config Auth0
+
+
+Config da Api de Autenticação: (00:28:40)
+
+PAREI EM: 29:00
+
+Alternativas ao Auth0:
+
+AWS Cognito
+Keycloak           (opensource)
+Supertokens
+Firebase
+Ory
+
+REFERÊNCIAS:
+https://manage.auth0.com
+https://www.typescriptlang.org/docs/handbook/decorators.html
+https://docs.nestjs.com/first-steps
+https://jwt.io
